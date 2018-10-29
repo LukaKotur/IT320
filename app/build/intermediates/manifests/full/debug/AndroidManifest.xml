@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.luko9.myapplication"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="25" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <meta-data
+        android:name="android.support.VERSION"
+        android:value="25.3.1" />
+
+    <application
+        android:allowBackup="true"
+        android:debuggable="true"
+        android:icon="@drawable/launcher_icon"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity android:name="com.example.luko9.myapplication.Activity.MainActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.example.luko9.myapplication.TvShows.DetailShowActivity" />
+        <activity android:name="com.example.luko9.myapplication.TvShows.ListViewActivity" />
+        <activity android:name="com.example.luko9.myapplication.TvShows.IndividualStuff.ActorProfileActivity" />
+        <activity android:name="com.example.luko9.myapplication.TvShows.IndividualStuff.EpisodeProfileActivity" />
+        <activity
+            android:name="com.example.luko9.myapplication.Activity.SearchActivity"
+            android:label="@string/title_activity_search" />
+        <activity android:name="com.example.luko9.myapplication.TvShows.FavouriteShowsListActivity" />
+        <activity android:name="com.example.luko9.myapplication.Activity.SettingsActivity" />
+
+        <receiver android:name="com.example.luko9.myapplication.Alarm.AlarmReceiver" />
+
+        <activity android:name="com.example.luko9.myapplication.Activity.SearchActorsActivity" />
+    </application>
+
+</manifest>

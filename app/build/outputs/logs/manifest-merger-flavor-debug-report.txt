@@ -1,0 +1,144 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\luko9\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:2:1-37:12
+	package
+		ADDED from C:\Users\luko9\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:3:5-46
+		INJECTED from C:\Users\luko9\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\luko9\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\luko9\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\luko9\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\luko9\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\luko9\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\luko9\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\luko9\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\luko9\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\luko9\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from C:\Users\luko9\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:6:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\luko9\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from C:\Users\luko9\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:7:22-78
+uses-sdk
+ADDED from C:\Users\luko9\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:9:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\luko9\.android\build-cache\03aa170f83f8de789fd7005cef43fdccbe443441\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:25.3.1] C:\Users\luko9\.android\build-cache\f8a5298f572c72ac2b7b05d9645e8a6246d9246f\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\luko9\.android\build-cache\b6df5124379cb6cb21cb118d0aa80ee250c9264e\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\luko9\.android\build-cache\cdcdc194eac974d5d3e2c00a0dc4dfd2c7d7f70a\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\luko9\.android\build-cache\e54416d14bb11d6aea2c70e40583604fb6f9fc3d\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\luko9\.android\build-cache\84bbef5d7f08bfb1b9868964b8c7951279c0f980\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\luko9\.android\build-cache\78d65816c4cff14c745f9881362a3a0f8cef0681\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\luko9\.android\build-cache\e5876088e83d9d15fd9dd4bb1c4ebce252b5c2ab\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\luko9\.android\build-cache\0f0c31b4e779af6252ec0365517ae5b0036bd77b\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\luko9\.android\build-cache\e7539570382b34d8c3b4878f9b04acea9579358b\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\luko9\.android\build-cache\c895faa59dd4a595efd3ec14c9dc9a9013c5136a\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\luko9\.android\build-cache\fdc82174f7ebbbce7f2ca7bedc7864acb402799c\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\luko9\.android\build-cache\8773c9e222df3e1c5f8df1548fb4e06c5f55d89f\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\luko9\.android\build-cache\f8a5298f572c72ac2b7b05d9645e8a6246d9246f\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\luko9\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\luko9\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\luko9\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:9:15-41
+		INJECTED from C:\Users\luko9\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\luko9\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\luko9\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:10:5-35:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\luko9\.android\build-cache\03aa170f83f8de789fd7005cef43fdccbe443441\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\luko9\.android\build-cache\f8a5298f572c72ac2b7b05d9645e8a6246d9246f\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\luko9\.android\build-cache\b6df5124379cb6cb21cb118d0aa80ee250c9264e\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\luko9\.android\build-cache\cdcdc194eac974d5d3e2c00a0dc4dfd2c7d7f70a\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\luko9\.android\build-cache\e54416d14bb11d6aea2c70e40583604fb6f9fc3d\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\luko9\.android\build-cache\78d65816c4cff14c745f9881362a3a0f8cef0681\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\luko9\.android\build-cache\e5876088e83d9d15fd9dd4bb1c4ebce252b5c2ab\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\luko9\.android\build-cache\0f0c31b4e779af6252ec0365517ae5b0036bd77b\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\luko9\.android\build-cache\e7539570382b34d8c3b4878f9b04acea9579358b\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\luko9\.android\build-cache\c895faa59dd4a595efd3ec14c9dc9a9013c5136a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\luko9\.android\build-cache\fdc82174f7ebbbce7f2ca7bedc7864acb402799c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\luko9\.android\build-cache\8773c9e222df3e1c5f8df1548fb4e06c5f55d89f\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\luko9\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:13:9-41
+	android:supportsRtl
+		ADDED from C:\Users\luko9\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:14:9-35
+	android:allowBackup
+		ADDED from C:\Users\luko9\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:11:9-35
+	android:icon
+		ADDED from C:\Users\luko9\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:12:9-47
+	android:theme
+		ADDED from C:\Users\luko9\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:15:9-40
+activity#com.example.luko9.myapplication.Activity.MainActivity
+ADDED from C:\Users\luko9\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:16:9-22:20
+	android:name
+		ADDED from C:\Users\luko9\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:16:19-56
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\luko9\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\luko9\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from C:\Users\luko9\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\luko9\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from C:\Users\luko9\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:20:27-74
+activity#com.example.luko9.myapplication.TvShows.DetailShowActivity
+ADDED from C:\Users\luko9\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:23:9-64
+	android:name
+		ADDED from C:\Users\luko9\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:23:19-61
+activity#com.example.luko9.myapplication.TvShows.ListViewActivity
+ADDED from C:\Users\luko9\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:24:9-62
+	android:name
+		ADDED from C:\Users\luko9\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:24:19-59
+activity#com.example.luko9.myapplication.TvShows.IndividualStuff.ActorProfileActivity
+ADDED from C:\Users\luko9\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:25:9-82
+	android:name
+		ADDED from C:\Users\luko9\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:25:19-79
+activity#com.example.luko9.myapplication.TvShows.IndividualStuff.EpisodeProfileActivity
+ADDED from C:\Users\luko9\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:26:9-84
+	android:name
+		ADDED from C:\Users\luko9\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:26:19-81
+activity#com.example.luko9.myapplication.Activity.SearchActivity
+ADDED from C:\Users\luko9\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:27:9-29:70
+	android:label
+		ADDED from C:\Users\luko9\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:29:13-58
+	android:name
+		ADDED from C:\Users\luko9\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:28:13-52
+activity#com.example.luko9.myapplication.TvShows.FavouriteShowsListActivity
+ADDED from C:\Users\luko9\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:30:9-72
+	android:name
+		ADDED from C:\Users\luko9\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:30:19-69
+activity#com.example.luko9.myapplication.Activity.SettingsActivity
+ADDED from C:\Users\luko9\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:31:9-63
+	android:name
+		ADDED from C:\Users\luko9\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:31:19-60
+receiver#com.example.luko9.myapplication.Alarm.AlarmReceiver
+ADDED from C:\Users\luko9\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:33:9-57
+	android:name
+		ADDED from C:\Users\luko9\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:33:19-54
+activity#com.example.luko9.myapplication.Activity.SearchActorsActivity
+ADDED from C:\Users\luko9\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:34:9-67
+	android:name
+		ADDED from C:\Users\luko9\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:34:19-64
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\luko9\.android\build-cache\f8a5298f572c72ac2b7b05d9645e8a6246d9246f\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\luko9\.android\build-cache\b6df5124379cb6cb21cb118d0aa80ee250c9264e\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\luko9\.android\build-cache\cdcdc194eac974d5d3e2c00a0dc4dfd2c7d7f70a\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\luko9\.android\build-cache\e54416d14bb11d6aea2c70e40583604fb6f9fc3d\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\luko9\.android\build-cache\84bbef5d7f08bfb1b9868964b8c7951279c0f980\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\luko9\.android\build-cache\78d65816c4cff14c745f9881362a3a0f8cef0681\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\luko9\.android\build-cache\e5876088e83d9d15fd9dd4bb1c4ebce252b5c2ab\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\luko9\.android\build-cache\0f0c31b4e779af6252ec0365517ae5b0036bd77b\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\luko9\.android\build-cache\e7539570382b34d8c3b4878f9b04acea9579358b\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\luko9\.android\build-cache\c895faa59dd4a595efd3ec14c9dc9a9013c5136a\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\luko9\.android\build-cache\fdc82174f7ebbbce7f2ca7bedc7864acb402799c\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\luko9\.android\build-cache\8773c9e222df3e1c5f8df1548fb4e06c5f55d89f\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\luko9\.android\build-cache\f8a5298f572c72ac2b7b05d9645e8a6246d9246f\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\luko9\.android\build-cache\f8a5298f572c72ac2b7b05d9645e8a6246d9246f\output\AndroidManifest.xml:26:9-47

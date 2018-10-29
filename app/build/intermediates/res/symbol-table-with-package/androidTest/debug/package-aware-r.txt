@@ -1,0 +1,2 @@
+com.example.luko9.myapplication.test
+string app_name
