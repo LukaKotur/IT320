@@ -1,2 +1,2 @@
-# IT320
-Projekat iz predmeta IT320.
+# SE495
+Završni rad.
